@@ -1,0 +1,42 @@
+[
+  {
+    a: {
+      name    : "a.java",
+      lines   : [1, 10]
+    },
+    b: {
+      name    : "b.java",
+      lines   : [2, 11]
+    }
+  },
+  {
+    a: {
+      name    : "a.java",
+      lines   : [1, 10]
+    },
+    b: {
+      name    : "b.java",
+      lines   : [21, 20]
+    }
+  },
+  {
+    a: {
+      name    : "a.java",
+      lines   : [15, 30]
+    },
+    b: {
+      name    : "b.java",
+      lines   : [35, 50]
+    }
+  },
+  {
+    a: {
+      name    : "a.java",
+      lines   : [40, 55]
+    },
+    b: {
+      name    : "b.java",
+      lines   : [35, 50]
+    }
+  },
+]

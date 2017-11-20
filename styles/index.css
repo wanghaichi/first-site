@@ -1,0 +1,77 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.code:nth-child(odd) {
+    width: 48%;
+    float: right;
+}
+
+.code:nth-child(even) {
+    width: 48%;
+    float: left;
+}
+
+.height-code {
+    position: absolute;
+    left: 3.3em;
+    opacity: 0.2;
+    width: 90%;
+    border-radius: 1em;
+}
+
+.container {
+    margin: 10px;
+    height: auto;
+    min-height: 1000px;
+}
+
+.code-name-block {
+    margin: 10px;
+    height: 80px;
+    border-bottom: 1px solid gray;
+}
+
+.code-name {
+    width: 30%;
+    float: left;
+    margin: 10px;
+    height: 60px;
+    background-color: #f5f9fa;
+}
+
+.code-name h4{
+    text-align: left;
+    margin: 15px;
+}
+
+.code-name-content {
+    width: 20%;
+    float: left;
+    margin: 10px;
+    height: 60px;
+    background-color: #f5f2f0;
+}
+
+.code-name-content p{
+    margin: 15px 20px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.view-more {
+    width: 10%;
+    float: left;
+    margin: 10px;
+    height: 60px;
+    background-color: #f5f2f0;
+
+}
+
+.view-more p{
+    margin: 15px 20px;
+    text-align: center;
+    line-height: 30px;
+}
